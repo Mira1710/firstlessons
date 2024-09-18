@@ -1,0 +1,11 @@
+.glzagolovok{
+    color: black;
+    }
+    .podzagolovok{
+        color: black; font-weight: 100
+        ;
+    }
+    nav {
+        background: #c0c0c0;
+        border: 1px solid #000000;
+    }
