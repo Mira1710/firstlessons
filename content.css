@@ -9,3 +9,48 @@
         background: #c0c0c0;
         border: 1px solid #000000;
     }
+    article{ 
+width: 700px;
+background: rgb(243, 243, 243);
+margin: 0 auto;
+margin-bottom: 300 px;
+    }
+
+    h1{ 
+        margin-top: 66px;
+        font-size: 38px;
+        line-height: 45px;
+ }
+ p {
+    margin-top: 8px;
+    font-size: 16px;
+    line-height: 32px;
+ }
+ /* h1 + hr + p + p
+    margin-top: 8px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #880303;*/
+    h2{
+        margin-top: 8px;
+        font-size: 32px;
+        line-height: 36px;
+    }
+h2 + p, h2 + blockquote {
+    margin-top: 8px;
+}
+p, blockquote, li {
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 34px;
+}
+blockquote{
+    font-style: italic;
+margin-left: 20%;
+}
+img{
+    width: 50%;
+    margin: 0 auto;
+    padding: 0px;
+    border-radius: 10px;
+}
