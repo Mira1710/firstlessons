@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "RobotoCondensed-Italic-VariableFont_wght";
+    src: url("./RobotoCondensed-Italic-VariableFont_wght.ttf") format(truetype);
+}
+
+  a{
+    font-family: "RobotoCondensed-Italic-VariableFont_wght";
+  }
